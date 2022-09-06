@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivam9938
+- 👋 Hi, I’m Shivam
 - 👀 I’m interested in ReactJs, React Native, Python, ML
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on above technologies
